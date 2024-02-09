@@ -3,12 +3,12 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
-    "text": ""
+    "file": "https://marketplace.sshopencloud.eu/_next/static/media/logo-with-text.d028f0de.svg",
+    "link": "https://marketplace.sshopencloud.eu/",
+    "text": "SSH Open Marketplace"
   },
   "text": {
-    "more": "",
+    "more": "This graph shows all item relations in the SSH Open Marketplace. Data accurate as of February 2024. This graph merges all workflow steps' relations to the main workflow and omits references workflow steps. (around 95% of item relations are visible)",
     "intro": "",
     "title": ""
   },
